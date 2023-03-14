@@ -1,5 +1,9 @@
 # C_learning
 
-learn something\
+# learn something
 
-dsfklaskfaj
+#include <stdio.h>
+
+main（）{
+printf（"hello world "）;
+}
